@@ -7,7 +7,8 @@
 }
 
 nav .logo img {
-    width: 150px;
+    width: 100px;
+    margin-left: 10px;
 }
 
 .back-to-top {
@@ -52,7 +53,7 @@ nav .logo img {
 /*** Button ***/
 .btn {
     font-weight: 500;
-    transition: .5s;
+    transition: .2s;
 }
 
 .btn.btn-primary,
@@ -185,7 +186,7 @@ nav .logo img {
         position: relative;
         min-height: 450px;
     }
-    
+
     #header-carousel .carousel-item img {
         position: relative;
         padding-top: 150px;
